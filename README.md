@@ -17,4 +17,4 @@ This C++ program serves as a commission calculator for sales. It allows users to
 
 **Contributions**
 -Contributions to this project are welcome. Feel free to fork the repository and commit your labeled changes. 
-
+ 
